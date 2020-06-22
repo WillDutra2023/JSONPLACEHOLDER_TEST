@@ -92,7 +92,8 @@ Na tela devera mostrar todos os detalhes do item em tela.
 ### OBS:
 Não podem ser atualizado os items IDs.
 </p>
-## Sair
+
+### Sair
 Quando clicar em sair no menu, quero mostre um alerta dizendo tchau.
 
 
