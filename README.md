@@ -21,7 +21,6 @@ https://jsonplaceholder.typicode.com/posts
 e
 https://jsonplaceholder.typicode.com/photos
 <p>
-## O que precisa ter
 O app precisar ter um menu Drawer com duas o opções:
 
 
